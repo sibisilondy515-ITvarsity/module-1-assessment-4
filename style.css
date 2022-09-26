@@ -1,0 +1,24 @@
+
+#menu-bar a{
+    font-family: Helvetica, sans-serif;
+    text-decoration: none; 
+    background-color: coral;
+    padding:6px
+}
+
+#menu-bar a:hover{
+    background-color: greenyellow;
+    color: #ffffff;
+}
+table{
+    font-family: Helvetica, sans-serif;
+    border-collapse: 4px;
+    border-width: 2px;
+    border-style:solid;
+    border-color: #2695A6 ;
+}
+th{
+    font-weight:800;
+    background-color:#2695a6;
+    color:#ffffff;
+}
